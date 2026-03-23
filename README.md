@@ -1,8 +1,9 @@
 - # Algorithm_study
+  - 프로그래머스의 알고리즘 문제 풀이 저장소
 
 
 
-  - #  [**String**](https://github.com/SinJeongEun/Algorithm_study/tree/master/Algorithm_study/src/String)
+  - # [**String**](https://github.com/SinJeongEun/Algorithm_study/tree/master/Algorithm_study/src/String)
   - # [**ARRAY**](https://github.com/SinJeongEun/Algorithm_study/tree/master/Algorithm_study/src/Array)
   - # [**2D_Array**](https://github.com/SinJeongEun/Algorithm_study/tree/master/Algorithm_study/src/Array_2D)
   - # [**Map**](https://github.com/SinJeongEun/Algorithm_study/tree/master/Algorithm_study/src/Map)
