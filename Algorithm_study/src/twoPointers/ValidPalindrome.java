@@ -8,12 +8,10 @@ class Solution {
     public boolean isPalindrome(String s) {
         s = NON_ALPHA.matcher(s).replaceAll("").toLowerCase();
 
-        if(s.length() == 0) return true;
-
         int startPoint = 0;
         int endPoint = s.length() - 1;
         
-        while(startPoint < s.length() && endPoint >= 0) {
+        while(startPoint < endPoint) {
             if(s.charAt(startPoint) != s.charAt(endPoint)) {
                 return false;
             }
