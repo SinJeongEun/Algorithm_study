@@ -1,8 +1,9 @@
-# https://leetcode.com/problems/valid-palindrome/
+package twoPointers;
 
 import java.util.regex.Pattern;
 
-class Solution {
+// https://leetcode.com/problems/valid-palindrome/
+class ValidPalindrome {
     private static final Pattern NON_ALPHA = Pattern.compile("[^a-zA-Z0-9]");
 
     public boolean isPalindrome(String s) {
